@@ -1,0 +1,14 @@
+body {
+  background-color: #d1d1d1;
+}
+
+h1 {
+  background-color: #00ff9d;
+  color: hsl(0, 0%, 0%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #d1d1d1;
+}
